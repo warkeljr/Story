@@ -1,1 +1,2 @@
-This is the first story and it belongs to file story1.txt
+This is the first story and it belongs to file story1.txt.
+This is a story about pushing something to Git and Github.
